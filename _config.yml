@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tomas Chor"
+title                    : "Rafael C Martins"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : 
-description              : "Investigations of oceanic and atmospheric turbulence"
-url                      : #"https://tomchor.github.io"
+description              : "Dynamics of Meso and Submesoscale Ocean Phenomena"
+url                      : #"https://rafacmartins.github.io"
 baseurl                  : # Subpath, if there is one.
-repository               : "tomchor/tomchor.github.io"
+repository               : "rafacmartins/rafacmartins.github.io"
 teaser                   : #
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Home" # overrides the website title displayed in the masthead, use " " for no title
