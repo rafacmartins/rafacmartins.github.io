@@ -12,7 +12,9 @@ page](https://scholar.google.com/citations?user=GjAn9VwAAAAJ&hl=pt-BR).
 Selected publications
 ---------------------
 
-{% include pubpage.html %}
+da Silveira, I. C. A., Lazaneo, C. Z., Amorim, J. P. M, Silva. B. M., Bernardo, P. S., Martins C. R., Dottori, M., Belo, W. C., Martins, R. P., Moreira, D. L. [Oceanographic conditions of the continental slope and deep waters in Santos Basin: the SANSED cruise (winter 2019)](https://doi.org/10.1590/2675-2824071.2206icas). **Ocean and Coastal Research**, OCR-2022-0066.
+
+<!-- {% include pubpage.html %} -->
 
 
 
