@@ -7,23 +7,14 @@ classes: wide
 author_profile: true
 ---
 
-I'm a geophysical fluid dynamicist who is interested in turbulent phenomena. In particular my main
-foci are small- and submeso-scale turbulence, which I investigate with a numerical approach (usually
-large-eddy simulations). I'm also a big believer in community-driven open-source software as a way
-to improve the reproducibility of results in science.
+I'm a oceanographer pursuing a master's in physical oceanography with a focus in submesoscale phenomena. I'm my undergrad thesis I focused in a large scale phenomena, the [Brazil Current Inner Recirculation Cell](link), where I've done a descriptive and a numerical modeling approach. Now at my Master's, I'm working in [César Barbedo Rocha](https://cesar-rocha.github.io/)'s group, where I'm researching about submesoscale fronts sampled during the [SMODE](https://podaac.jpl.nasa.gov/S-MODE) IOP1 field campaign, where I'll be working mostly with [Oceananigans](https://clima.github.io/OceananigansDocumentation/stable/).
 
-I'm currently working as a postdoctoral researcher at the University of Maryland's Atmospheric and
-Oceanic Science department in [Dr. Jacob Wenegrat](https://wenegrat.github.io/)'s group. 
-
-
-For an in-depth list of talks, awards, publications, skills, etc., please check my [curriculum
-vitae](https://github.com/tomchor/tomchor.github.io/raw/master/assets/pdf/phd-tomas-chor3.pdf).
+For a comprehensive overview of my talks, awards, publications, skills, and more, please refer to my [Curriculum Vitae](https:github.com/rafacmartins/rafacmartins.github.io/raw/master/assets/pdf/cv_rafael_maio_2024.pdf)
 
 
 
 ## Contact
 
-I'm always looking for new things to do and learn so if you are interested in
-any part of my work, please contact me using the information below.
+I'm constantly seeking new activities and learning opportunities, so if you're interested in any aspect of my work, please reach out to me using the contact information provided below.
 
-- Email: tomaschor@gmail.com
+- Email: rafamartins18@usp.br
