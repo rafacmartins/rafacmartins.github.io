@@ -7,7 +7,9 @@ classes: wide
 author_profile: true
 ---
 
-I'm a oceanographer pursuing a master's in physical oceanography with a focus in submesoscale phenomena. I'm my undergrad thesis I focused in a large scale phenomena, the [Brazil Current Inner Recirculation Cell](link), where I've done a descriptive and a numerical modeling approach. Now at my Master's, I'm working in [César Barbedo Rocha](https://cesar-rocha.github.io/)'s group, where I'm researching about submesoscale fronts sampled during the [SMODE](https://podaac.jpl.nasa.gov/S-MODE) IOP1 field campaign, where I'll be working mostly with [Oceananigans](https://clima.github.io/OceananigansDocumentation/stable/).
+I'm a oceanographer pursuing a master's in physical oceanography with a focus in submesoscale phenomena. I'm my undergrad thesis I focused in a large scale phenomena, the [Brazil Current Inner Recirculation Cell](link), where I've done a descriptive and a numerical modeling approach. Now at my Master's, I'm working in [César Barbedo Rocha](https://cesar-rocha.github.io/)'s group, where I'm researching about submesoscale fronts sampled during the [SMODE](https://podaac.jpl.nasa.gov/S-MODE) IOP1 field campaign, and I'll be working mostly with [Oceananigans](https://clima.github.io/OceananigansDocumentation/stable/).
+
+I'm also very interested in Scientific Communication for non-scientific groups, during my undergrad I was a member of the [UNESCO Chair on Ocean Sustainability](https://www.instagram.com/catedraoceano/) where I mostly worked with the divulgation of Ocean Culture in social media and organizing in person scientific events.
 
 For a comprehensive overview of my talks, awards, publications, skills, and more, please refer to my [Curriculum Vitae](https://raw.githubusercontent.com/rafacmartins/rafacmartins.github.io/master/assets/pdf/cv_rafael_maio_2024.pdf).
 
