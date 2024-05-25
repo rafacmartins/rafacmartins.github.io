@@ -103,27 +103,27 @@ analytics:
 
 # Author information
 author:
-  name             : "Tomás L. Chor"
-  avatar           : "assets/images/TChor-02p_UCLA_cropped.jpg"
+  name             : "Rafael C. Martins"
+  avatar           : "assets/images/foto_perfil_cortada.jpg"
   bio              : "<br>"
-  location         : "Los Angeles, CA"
-  email            : #"tomaschor@gmail.com"
+  location         : "São Paulo, SP"
+  email            : #"rafamartins18@usp.br"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tomaschor@gmail.com"
+      url: "mailto:rafamartins18@usp.br"
     - label: "Google Scholar" # This odd username is somehow brewed up by Google.
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=0uQC6kkAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=GjAn9VwAAAAJ&hl=pt-BR"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/tomchor"
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Tomas-Chor"
+      url: "https://github.com/rafacmartins"
+    # - label: "ResearchGate"
+    #   icon: "fab fa-fw fa-researchgate"
+    #   url: "https://www.researchgate.net/profile/Tomas-Chor"
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0003-0854-3803"
+      url: "https://orcid.org/0000-0002-6018-0803"
       #    - label: "Website"
       #      icon: "fas fa-fw fa-link"
       #      url: "https://your-website.com"
@@ -133,9 +133,9 @@ author:
       #    - label: "Facebook"
       #      icon: "fab fa-fw fa-facebook-square"
       #      url: "https://facebook.com/"
-        #    - label: "Instagram"
-        #      icon: "fab fa-fw fa-instagram"
-        #      url: "https://instagram.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/rafa_martiins1404"
 
 # Site Footer
 footer:
@@ -148,7 +148,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/rafacmartins"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -157,7 +157,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/rafa_martiins1404"
 
 
 # Reading Files
