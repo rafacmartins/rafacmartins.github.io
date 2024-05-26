@@ -26,4 +26,4 @@ Me and a cruise partnership Ana Clara Mariani astonished by the beauty of the oc
 
 ![](/assets/images/sunset.JPG)
 
-A beautiful sunset in the South Atlantic Ocean open waters.
+A beautiful sunset in the South Atlantic Ocean open water.
