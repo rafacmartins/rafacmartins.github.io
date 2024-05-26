@@ -6,7 +6,7 @@ header:
 ---
 
 
-During my undergrad time I've done a few of field work. Below you can see some beautiful pictures.
+During my undergrad time I've done a few of field work. Below you can see some beautiful pictures of those opportunities.
 
 ### SAMBAR 3 Cruise - Offshore of Brazil and Uruguay coast (July-August 2022)
 
@@ -14,8 +14,16 @@ Field work in the Offshore waters of Brasil and Uruguay coast. The objective of 
 
 ![](/assets/images/cruise_group.JPG)
 
+The crew of the SAMBAR_A03 Cruise.
+
 ![](/assets/images/argo_renovavel.JPG)
+
+A picture of a test ARGO float that was deployed during the campaign.
 
 ![](/assets/images/me_and_aninha.JPG)
 
+Me and a cruise partnership Ana Clara Mariani astonished by the beauty of the ocean.
+
 ![](/assets/images/sunset.JPG)
+
+A beautiful sunset in the South Atlantic Ocean open waters.
