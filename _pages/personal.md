@@ -5,8 +5,7 @@ header:
 permalink: /personal/
 ---
 
-Here you can find a non-exhaustive list of projects that I pursue mostly on my free time. Feel free
-to reach out if you're interested in any of them.
+It's still a working in process do develop this personal page.
 
 
 <!-- ## Oceananigans
