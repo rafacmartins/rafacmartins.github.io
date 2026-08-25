@@ -2,7 +2,7 @@
 title: Field work
 permalink: /field_work/
 header:
-  image: /assets/images/vortart/banner_vorticity.png
+  image: /assets/images/fig_capa_zeta_4x.png
 ---
 
 
