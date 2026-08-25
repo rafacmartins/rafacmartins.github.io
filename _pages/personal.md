@@ -1,7 +1,7 @@
 ---
 title: Personal projects
 header:
-  image: /assets/images/vortart/banner_vorticity.png
+  image: /assets/images/fig_capa_zeta_4x.png
 permalink: /personal/
 ---
 
