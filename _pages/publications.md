@@ -1,7 +1,7 @@
 ---
 title: Publications
 header:
-  image: /assets/images/vortart/banner_vorticity.png
+  image: /assets/images/fig_capa_zeta_4x.png
 permalink: /publications/
 ---
 For a comprehensive overview of my talks, awards, publications, skills, and more, please refer to my [Curriculum Vitae](https://raw.githubusercontent.com/rafacmartins/rafacmartins.github.io/master/assets/pdf/cv_rafael_maio_2024.pdf).
