@@ -1,17 +1,19 @@
 ---
 title: About me
 header:
-  image: /assets/images/vortart/banner_vorticity.png
+  image: /assets/images/fig_capa_zeta_4x.png
 layout: single
 classes: wide
 author_profile: true
 ---
 
-I'm a oceanographer pursuing a master's in physical oceanography with a focus in submesoscale phenomena. I'm my undergrad thesis I focused in a large scale phenomena, the [Brazil Current Inner Recirculation Cell](https://raw.githubusercontent.com/rafacmartins/rafacmartins.github.io/master/assets/pdf/TG2_RAFAEL_COUTO_MARTINS-1.pdf) (there's no English version yet), where I've done a descriptive and a numerical modeling approach. Now at my Master's, I'm working in [César Barbedo Rocha](https://cesar-rocha.github.io/)'s group, where I'm researching about submesoscale fronts sampled during the [SMODE](https://podaac.jpl.nasa.gov/S-MODE) IOP1 field campaign, and I'll be working mostly with [Oceananigans](https://clima.github.io/OceananigansDocumentation/stable/).
+I'm an oceanographer pursuing a Master's degree in Physical Oceanography, with a focus on submesoscale phenomena. During my undergraduate thesis, I studied a large-scale oceanographic phenomenon, the [Brazil Current Inner Recirculation Cell](https://raw.githubusercontent.com/rafacmartins/rafacmartins.github.io/master/assets/pdf/TG2_RAFAEL_COUTO_MARTINS-1.pdf) (there is no English version yet), combining a descriptive analysis with a numerical modeling approach.
 
-I'm also very interested in Scientific Communication for non-scientific groups, during my undergrad I was a member of the [UNESCO Chair on Ocean Sustainability](https://oceano.iea.usp.br/) where I mostly worked with the divulgation of Ocean Culture in social media and organizing in person scientific events.
+For my Master's, I'm working in [César Barbedo Rocha](https://cesar-rocha.github.io/)'s group, where I study submesoscale fronts observed during the [SMODE](https://podaac.jpl.nasa.gov/S-MODE) IOP1 field campaign. My work primarily involves numerical modeling and the use of [Oceananigans](https://clima.github.io/OceananigansDocumentation/stable/).
 
-For a comprehensive overview of my talks, awards, publications, skills, and more, please refer to my [Curriculum Vitae](https://raw.githubusercontent.com/rafacmartins/rafacmartins.github.io/master/assets/pdf/cv_rafael_maio_2024.pdf).
+I'm also very interested in science communication and outreach to non-scientific audiences. During my undergraduate studies, I was a member of the [UNESCO Chair on Ocean Sustainability](https://oceano.iea.usp.br/), where I mainly worked on communicating ocean-related topics through social media and organizing in-person scientific outreach events.
+
+For a comprehensive overview of my talks, awards, publications, skills, and other academic activities, please refer to my [Curriculum Vitae](https://raw.githubusercontent.com/rafacmartins/rafacmartins.github.io/master/assets/pdf/cv_rafael_march_2026.pdf).
 
 
 
