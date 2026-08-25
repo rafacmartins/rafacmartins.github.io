@@ -1,7 +1,7 @@
 ---
 title: Research
 header:
-  image: /assets/images/vortart/banner_vorticity.png
+  image: /assets/images/vortart/fig_capa_zeta_4x.png
 permalink: /research/
 ---
 
