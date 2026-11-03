@@ -13,7 +13,7 @@ For my Master's, I'm working in [César Barbedo Rocha](https://cesar-rocha.githu
 
 I'm also very interested in science communication and outreach to non-scientific audiences. During my undergraduate studies, I was a member of the [UNESCO Chair on Ocean Sustainability](https://oceano.iea.usp.br/), where I mainly worked on communicating ocean-related topics through social media and organizing in-person scientific outreach events.
 
-For a comprehensive overview of my talks, awards, publications, skills, and other academic activities, please refer to my [Curriculum Vitae](https://raw.githubusercontent.com/rafacmartins/rafacmartins.github.io/master/assets/pdf/cv_rafael_march_2026.pdf).
+For a comprehensive overview of my talks, awards, publications, skills, and other academic activities, please refer to my [Curriculum Vitae](https://raw.githubusercontent.com/rafacmartins/rafacmartins.github.io/master/assets/pdf/cv_rafael_november_2026.pdf).
 
 
 
