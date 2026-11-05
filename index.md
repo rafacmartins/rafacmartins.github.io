@@ -7,18 +7,21 @@ classes: wide
 author_profile: true
 ---
 
-I'm an oceanographer pursuing a Master's degree in Physical Oceanography, with a focus on submesoscale phenomena. During my undergraduate thesis, I studied a large-scale oceanographic phenomenon, the [Brazil Current Inner Recirculation Cell](https://raw.githubusercontent.com/rafacmartins/rafacmartins.github.io/master/assets/pdf/TG2_RAFAEL_COUTO_MARTINS-1.pdf) (there is no English version yet), combining a descriptive analysis with a numerical modeling approach.
+I'm an oceanographer and PhD student in Physical Oceanography at the [Laboratory of Ocean Physics and Satellite Remote Sensing (LOPS)](https://www.umr-lops.fr/), where I work with [Professor Jonathan Gula](https://www.jgula.fr/) and [Clément Vic](https://annuaire.ifremer.fr/cv/28255/). My current research focuses on abyssal currents and turbulent processes over the Mid-Atlantic Ridge, using realistic numerical simulations with [CROCO](https://www.croco-ocean.org/).
 
-For my Master's, I'm working in [César Barbedo Rocha](https://cesar-rocha.github.io/)'s group, where I study submesoscale fronts observed during the [SMODE](https://podaac.jpl.nasa.gov/S-MODE) IOP1 field campaign. My work primarily involves numerical modeling and the use of [Oceananigans](https://clima.github.io/OceananigansDocumentation/stable/).
+My research interests lie in physical oceanography and ocean dynamics, particularly at submesoscale and smaller scales. I am especially interested in frontal dynamics, instabilities, and the interactions between processes across different spatial and temporal scales.
 
-I'm also very interested in science communication and outreach to non-scientific audiences. During my undergraduate studies, I was a member of the [UNESCO Chair on Ocean Sustainability](https://oceano.iea.usp.br/), where I mainly worked on communicating ocean-related topics through social media and organizing in-person scientific outreach events.
+During my Master's degree at the University of São Paulo (USP), in [César Barbedo Rocha](https://cesar-rocha.github.io/)'s research group, I investigated submesoscale fronts observed during the [SMODE](https://podaac.jpl.nasa.gov/S-MODE) IOP1 field campaign. My research explored the role of horizontal shear and frontal curvature in the development of submesoscale instabilities, combining observations with idealized numerical simulations using [Oceananigans](https://clima.github.io/OceananigansDocumentation/stable/).
 
-For a comprehensive overview of my talks, awards, publications, skills, and other academic activities, please refer to my [Curriculum Vitae](https://raw.githubusercontent.com/rafacmartins/rafacmartins.github.io/master/assets/pdf/cv_rafael_november_2026.pdf).
+Previously, during my undergraduate studies, I investigated a large-scale oceanographic phenomenon: the [Brazil Current Inner Recirculation Cell](https://raw.githubusercontent.com/rafacmartins/rafacmartins.github.io/master/assets/pdf/TG2_RAFAEL_COUTO_MARTINS-1.pdf) (thesis available in Portuguese only). This work combined a descriptive analysis of the circulation with a numerical modelling approach.
 
+Beyond research, I am also passionate about science communication and outreach. During my undergraduate studies, I was a member of the [UNESCO Chair on Ocean Sustainability](https://oceano.iea.usp.br/), where I worked primarily on communicating ocean-related topics through social media and organizing in-person science outreach events.
+
+For a more comprehensive overview of my academic background, research activities, talks, awards, publications, and skills, please refer to my [Curriculum Vitae](https://raw.githubusercontent.com/rafacmartins/rafacmartins.github.io/master/assets/pdf/cv_rafael_november_2026.pdf).
 
 
 ## Contact
 
 I'm constantly seeking new activities and learning opportunities, so if you're interested in any aspect of my work, please reach out to me using the contact information provided below.
 
-- Email: rafamartins18@usp.br
+- Email: rafaelcmartins1404 AT gmail.com 
